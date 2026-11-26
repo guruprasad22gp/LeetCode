@@ -20,7 +20,7 @@ public class Solution1 {
 	}
 
 	public static void main(String[] args) {
-		int n = 19;
+		int n = 47;
 		Solution1 sol1 = new Solution1();
 		System.out.println("Output: " + sol1.canAliceWin(n));
 	}
